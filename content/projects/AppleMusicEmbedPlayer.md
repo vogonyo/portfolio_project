@@ -1,14 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+title: 'My Team Project'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://fem-prem-my-team.now.sh'
 tech:
-  - MusicKit.js
+  - HTML
   - JS
   - SCSS
-company: 'Apple'
-showInProjects: true
+company: 'Tekulcha'
+showInProjects: false
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+

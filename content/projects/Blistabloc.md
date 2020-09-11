@@ -1,14 +1,15 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+title: 'Real Estate Project API'
+github: 'https://github.com/vogonyo/spacehuru_v1'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - AWS
+  - Python , Django
+  - PostgreSQL
+
+company: 'Spacehuru'
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+A Real Estate Project that allows users to create Real estate properties that allows one to upload the properties together with images.Before uploading to the public for viewing, the user is expected to pay a small fee which is implemented with Daraja API.Features implemented include: pagination, filtering, wishlisting , admin priviledges to operate listings.

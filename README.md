@@ -1,1 +1,1 @@
-# The Portfolio Website of VIctor Ogonyo
+# The Portfolio Website of Victor Ogonyo

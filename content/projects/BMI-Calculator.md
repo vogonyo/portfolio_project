@@ -2,12 +2,13 @@
 date: '2020-03-27'
 title: 'BMI-Calculator App'
 github: ''
-external: ''
+external: 'https://github.com/vogonyo/BMI-Calculator-App'
 android: ''
 tech:
   - Flutter
   - Dart
 
 company: 'Learning'
-showInProjects: false
+showInProjects: true
 ---
+ An Application that calculates the BMI index of a person using dart and flutter .
